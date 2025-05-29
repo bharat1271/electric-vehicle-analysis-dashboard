@@ -86,8 +86,8 @@ Hi, I’m **Bharat Kumar**, a Data Research Analyst with 6+ years of experience 
 
 ## 🔗 Related Projects
 
-- [COVID-19 Publications Dashboard](https://github.com/your-username/covid19-publications-dashboard)
-- [Road Accident Analysis Dashboard](https://github.com/your-username/road-accident-analysis-dashboard)
+- [COVID-19 Publications Dashboard](https://github.com/bharat1271/covid19-publications-dashboard)
+- [Road Accident Analysis Dashboard](https://github.com/bharat1271/road-accident-analysis-dashboard)
 
 ---
 
